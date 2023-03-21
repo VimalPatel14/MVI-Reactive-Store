@@ -10,7 +10,7 @@ shared code using MVI pattern. It also includes powerful debug tools like
 logging and time travel. The main functionality of the framework does not depend on any
 reactive nor coroutines library.  
 
-<img src="mvikotlin.jpg" alt="MVIKotlin" width="600"/>
+<img src="MVIDiagram.png" alt="MVIKotlin" width="600"/>
 
 
 #### Responsibility
